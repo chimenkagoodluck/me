@@ -1,0 +1,20 @@
+/* TEAM */
+Developer & Designer: Chimenka Goodluck
+Role: Cybersecurity Specialist, Software Engineer, AI Researcher
+Location: Lagos, Nigeria
+Email: chimenkagoodluck@gmail.com
+LinkedIn: linkedin.com/in/chimenkagoodluck
+GitHub: github.com/chimenkagoodluck
+Twitter/X: @chimenkagoodluck
+
+/* SITE */
+Last update: 2026-05-08
+URL: https://chimenkagoodluck.github.io/me/
+Standards: HTML5, CSS3, ES2022
+Components: EmailJS, Lucide Icons, Google Fonts
+Charset: UTF-8
+Language: English
+
+/* THANKS */
+Clifford University — for the education and research environment
+The open-source community — for the tools that made this possible

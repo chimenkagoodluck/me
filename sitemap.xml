@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml"
+  xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
+>
+
+  <!-- ── Primary page ─────────────────────────── -->
+  <url>
+    <loc>https://chimenkagoodluck.github.io/me/</loc>
+    <lastmod>2026-05-08</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://chimenkagoodluck.github.io/me/images/og-cover.jpg</image:loc>
+      <image:title>Chimenka Goodluck — Software Engineer &amp; AI Researcher</image:title>
+    </image:image>
+  </url>
+
+  <!-- ── Named sections (anchor URLs) ─────────── -->
+  <url>
+    <loc>https://chimenkagoodluck.github.io/me/#about</loc>
+    <lastmod>2026-05-08</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <url>
+    <loc>https://chimenkagoodluck.github.io/me/#achievements</loc>
+    <lastmod>2026-05-08</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://chimenkagoodluck.github.io/me/#projects</loc>
+    <lastmod>2026-05-08</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <url>
+    <loc>https://chimenkagoodluck.github.io/me/#research</loc>
+    <lastmod>2026-05-08</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.85</priority>
+  </url>
+
+  <url>
+    <loc>https://chimenkagoodluck.github.io/me/#publications</loc>
+    <lastmod>2026-05-08</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.85</priority>
+  </url>
+
+  <url>
+    <loc>https://chimenkagoodluck.github.io/me/#gallery</loc>
+    <lastmod>2026-05-08</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>https://chimenkagoodluck.github.io/me/#contact</loc>
+    <lastmod>2026-05-08</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- ── Downloadable CV ───────────────────────── -->
+  <url>
+    <loc>https://chimenkagoodluck.github.io/me/pdf/CHIMENKACV.pdf</loc>
+    <lastmod>2026-05-08</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.5</priority>
+  </url>
+
+</urlset>
