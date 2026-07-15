@@ -1,6 +1,6 @@
 # =============================================
-#  robots.txt — chimenkagoodluck.github.io/me
-#  Last updated: 2026-05-08
+#  robots.txt — chimenkagoodluck.com
+#  Last updated: 2026-07-15
 # =============================================
 
 # Allow all crawlers full access
@@ -8,7 +8,7 @@ User-agent: *
 Allow: /
 
 # Sitemap location
-Sitemap: https://chimenkagoodluck.github.io/me/sitemap.xml
+Sitemap: https://chimenkagoodluck.com/sitemap.xml
 
 # ── Per-bot directives ────────────────────────
 # Give Google a generous crawl delay

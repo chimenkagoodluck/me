@@ -1,9 +1,9 @@
 {
   "name": "Chimenka Goodluck",
   "short_name": "CG",
-  "description": "Software Engineer, AI Researcher and Cybersecurity specialist based in Lagos, Nigeria.",
-  "start_url": "/me/",
-  "scope": "/me/",
+  "description": "Digital Forensic, AI Researcher and Cybersecurity specialist based in Lagos, Nigeria.",
+  "start_url": "/",
+  "scope": "/",
   "display": "standalone",
   "orientation": "portrait-primary",
   "background_color": "#1A1815",
@@ -13,18 +13,18 @@
   "categories": ["education", "technology", "portfolio"],
   "icons": [
     {
-      "src": "/me/images/favicon.svg",
+      "src": "/images/favicon.svg",
       "sizes": "any",
       "type": "image/svg+xml",
       "purpose": "any maskable"
     },
     {
-      "src": "/me/images/favicon.ico",
+      "src": "/images/favicon.ico",
       "sizes": "48x48",
       "type": "image/x-icon"
     },
     {
-      "src": "/me/images/apple-touch-icon.png",
+      "src": "/images/apple-touch-icon.png",
       "sizes": "180x180",
       "type": "image/png",
       "purpose": "any"
@@ -35,27 +35,27 @@
       "name": "Projects",
       "short_name": "Work",
       "description": "Browse Chimenka's projects",
-      "url": "/me/#projects",
-      "icons": [{ "src": "/me/images/favicon.svg", "sizes": "any" }]
+      "url": "/#projects",
+      "icons": [{ "src": "/images/favicon.svg", "sizes": "any" }]
     },
     {
       "name": "Publications",
       "short_name": "Research",
       "description": "View research papers and publications",
-      "url": "/me/#publications",
-      "icons": [{ "src": "/me/images/favicon.svg", "sizes": "any" }]
+      "url": "/#publications",
+      "icons": [{ "src": "/images/favicon.svg", "sizes": "any" }]
     },
     {
       "name": "Contact",
       "short_name": "Contact",
       "description": "Get in touch",
       "url": "/me/#contact",
-      "icons": [{ "src": "/me/images/favicon.svg", "sizes": "any" }]
+      "icons": [{ "src": "/images/favicon.svg", "sizes": "any" }]
     }
   ],
   "screenshots": [
     {
-      "src": "/me/images/og-cover.jpg",
+      "src": "/images/og-cover.jpg",
       "sizes": "1200x630",
       "type": "image/jpeg",
       "label": "Chimenka Goodluck — Portfolio"
